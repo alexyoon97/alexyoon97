@@ -15,7 +15,7 @@ AIYOO~ it's Alex Yoon, I am a passionate Developer from Korea interested in web 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-[![](https://visitcount.itsvg.in/api?id=alexyoon97&icon=6&color=12)](https://visitcount.itsvg.in)
+<!-- ---
+[![](https://visitcount.itsvg.in/api?id=alexyoon97&icon=6&color=12)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

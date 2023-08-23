@@ -1,6 +1,3 @@
-# 💫 About Me:
-AIYOO~ it's Alex Yoon, I am a passionate Developer from Korea interested in web app, software, techs, and science.<br>I am currently based in Vancouver, BC with beautiful weather and chasing my dream.
-
 
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexyoon97/)  -->
